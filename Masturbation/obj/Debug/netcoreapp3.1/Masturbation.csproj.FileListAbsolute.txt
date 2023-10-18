@@ -1,0 +1,13 @@
+/Users/macbook/Projects/Masturbation/Masturbation/bin/Debug/netcoreapp3.1/Masturbation.deps.json
+/Users/macbook/Projects/Masturbation/Masturbation/bin/Debug/netcoreapp3.1/Masturbation.runtimeconfig.json
+/Users/macbook/Projects/Masturbation/Masturbation/bin/Debug/netcoreapp3.1/Masturbation.runtimeconfig.dev.json
+/Users/macbook/Projects/Masturbation/Masturbation/bin/Debug/netcoreapp3.1/Masturbation.dll
+/Users/macbook/Projects/Masturbation/Masturbation/bin/Debug/netcoreapp3.1/Masturbation.pdb
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.AssemblyInfo.cs
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.dll
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.pdb
+/Users/macbook/Projects/Masturbation/Masturbation/obj/Debug/netcoreapp3.1/Masturbation.genruntimeconfig.cache
