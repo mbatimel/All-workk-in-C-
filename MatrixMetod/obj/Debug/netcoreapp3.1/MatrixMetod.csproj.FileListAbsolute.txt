@@ -1,0 +1,13 @@
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/bin/Debug/netcoreapp3.1/MatrixMetod.deps.json
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/bin/Debug/netcoreapp3.1/MatrixMetod.runtimeconfig.json
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/bin/Debug/netcoreapp3.1/MatrixMetod.runtimeconfig.dev.json
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/bin/Debug/netcoreapp3.1/MatrixMetod.dll
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/bin/Debug/netcoreapp3.1/MatrixMetod.pdb
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.csproj.AssemblyReference.cache
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.AssemblyInfoInputs.cache
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.AssemblyInfo.cs
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.dll
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.pdb
+/Users/macbook/Projects/MatrixMetod/MatrixMetod/obj/Debug/netcoreapp3.1/MatrixMetod.genruntimeconfig.cache
