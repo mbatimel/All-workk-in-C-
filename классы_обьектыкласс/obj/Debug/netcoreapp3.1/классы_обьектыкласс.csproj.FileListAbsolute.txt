@@ -1,0 +1,13 @@
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/bin/Debug/netcoreapp3.1/классы_обьектыкласс.deps.json
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/bin/Debug/netcoreapp3.1/классы_обьектыкласс.runtimeconfig.json
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/bin/Debug/netcoreapp3.1/классы_обьектыкласс.runtimeconfig.dev.json
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/bin/Debug/netcoreapp3.1/классы_обьектыкласс.dll
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/bin/Debug/netcoreapp3.1/классы_обьектыкласс.pdb
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.csproj.AssemblyReference.cache
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.AssemblyInfoInputs.cache
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.AssemblyInfo.cs
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.dll
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.pdb
+/Users/macbook/Projects/классы_обьектыкласс/классы_обьектыкласс/obj/Debug/netcoreapp3.1/классы_обьектыкласс.genruntimeconfig.cache
