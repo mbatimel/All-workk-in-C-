@@ -1,0 +1,15 @@
+C:/Users/ildar/source/repos/skillbox/skillbox/obj/Debug/skillbox.csproj.AssemblyReference.cache
+C:/Users/ildar/source/repos/skillbox/skillbox/obj/Debug/skillbox.csproj.SuggestedBindingRedirects.cache
+C:/Users/ildar/source/repos/skillbox/skillbox/obj/Debug/skillbox.csproj.CoreCompileInputs.cache
+C:/Users/ildar/source/repos/skillbox/skillbox/bin/Debug/skillbox.exe.config
+C:/Users/ildar/source/repos/skillbox/skillbox/bin/Debug/skillbox.exe
+C:/Users/ildar/source/repos/skillbox/skillbox/bin/Debug/skillbox.pdb
+C:/Users/ildar/source/repos/skillbox/skillbox/obj/Debug/skillbox.exe
+C:/Users/ildar/source/repos/skillbox/skillbox/obj/Debug/skillbox.pdb
+/Users/macbook/Desktop/skillbox/skillbox/bin/Debug/skillbox.exe.config
+/Users/macbook/Desktop/skillbox/skillbox/bin/Debug/skillbox.exe
+/Users/macbook/Desktop/skillbox/skillbox/bin/Debug/skillbox.pdb
+/Users/macbook/Desktop/skillbox/skillbox/obj/Debug/skillbox.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/skillbox/skillbox/obj/Debug/skillbox.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/skillbox/skillbox/obj/Debug/skillbox.exe
+/Users/macbook/Desktop/skillbox/skillbox/obj/Debug/skillbox.pdb
