@@ -1,0 +1,13 @@
+/Users/macbook/Projects/лекция/лекция/bin/Debug/netcoreapp3.1/лекция.deps.json
+/Users/macbook/Projects/лекция/лекция/bin/Debug/netcoreapp3.1/лекция.runtimeconfig.json
+/Users/macbook/Projects/лекция/лекция/bin/Debug/netcoreapp3.1/лекция.runtimeconfig.dev.json
+/Users/macbook/Projects/лекция/лекция/bin/Debug/netcoreapp3.1/лекция.dll
+/Users/macbook/Projects/лекция/лекция/bin/Debug/netcoreapp3.1/лекция.pdb
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.csproj.AssemblyReference.cache
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.AssemblyInfoInputs.cache
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.AssemblyInfo.cs
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.dll
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.pdb
+/Users/macbook/Projects/лекция/лекция/obj/Debug/netcoreapp3.1/лекция.genruntimeconfig.cache
