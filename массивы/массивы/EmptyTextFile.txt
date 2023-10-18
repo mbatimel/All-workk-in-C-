@@ -1,0 +1,29 @@
+﻿using System;
+
+namespace массивы
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] num = { 12,23,42,3,5,45,64,4 };
+            foreach (int i in num)//позволяет сразу запихнуть в одну переменную все эелементы массива
+            { 
+                Console.WriteLine(i);
+            }
+            /*for(int i=0;i<num.Length ;i++)
+            {
+                Console.WriteLine(num[i]);
+            }можно использовать этот метод записи цикла */
+            /*int a = num.Length;
+           while(a>0) цикл вайл
+            {
+                Console.WriteLine(a);
+                
+                a--;
+                    }*/
+            Console.ReadKey();
+            
+        }
+    }
+}

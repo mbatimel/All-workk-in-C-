@@ -1,0 +1,13 @@
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.csproj.AssemblyReference.cache
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.AssemblyInfoInputs.cache
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.AssemblyInfo.cs
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/массивы/массивы/bin/Debug/netcoreapp3.1/массивы.deps.json
+/Users/macbook/Projects/массивы/массивы/bin/Debug/netcoreapp3.1/массивы.runtimeconfig.json
+/Users/macbook/Projects/массивы/массивы/bin/Debug/netcoreapp3.1/массивы.runtimeconfig.dev.json
+/Users/macbook/Projects/массивы/массивы/bin/Debug/netcoreapp3.1/массивы.dll
+/Users/macbook/Projects/массивы/массивы/bin/Debug/netcoreapp3.1/массивы.pdb
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.dll
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.pdb
+/Users/macbook/Projects/массивы/массивы/obj/Debug/netcoreapp3.1/массивы.genruntimeconfig.cache
