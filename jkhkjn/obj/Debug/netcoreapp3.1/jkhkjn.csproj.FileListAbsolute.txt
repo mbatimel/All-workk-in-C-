@@ -1,0 +1,5 @@
+/Users/macbook/Projects/jkhkjn/jkhkjn/obj/Debug/netcoreapp3.1/jkhkjn.csproj.AssemblyReference.cache
+/Users/macbook/Projects/jkhkjn/jkhkjn/obj/Debug/netcoreapp3.1/jkhkjn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/jkhkjn/jkhkjn/obj/Debug/netcoreapp3.1/jkhkjn.AssemblyInfoInputs.cache
+/Users/macbook/Projects/jkhkjn/jkhkjn/obj/Debug/netcoreapp3.1/jkhkjn.AssemblyInfo.cs
+/Users/macbook/Projects/jkhkjn/jkhkjn/obj/Debug/netcoreapp3.1/jkhkjn.csproj.CoreCompileInputs.cache
