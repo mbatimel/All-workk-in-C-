@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/ShekerSork/bin/Debug/net7.0/ShekerSork
+/Users/macbook/Projects/bubble/ShekerSork/bin/Debug/net7.0/ShekerSork.deps.json
+/Users/macbook/Projects/bubble/ShekerSork/bin/Debug/net7.0/ShekerSork.runtimeconfig.json
+/Users/macbook/Projects/bubble/ShekerSork/bin/Debug/net7.0/ShekerSork.dll
+/Users/macbook/Projects/bubble/ShekerSork/bin/Debug/net7.0/ShekerSork.pdb
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.dll
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/refint/ShekerSork.dll
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.pdb
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ShekerSork.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/ShekerSork/obj/Debug/net7.0/ref/ShekerSork.dll

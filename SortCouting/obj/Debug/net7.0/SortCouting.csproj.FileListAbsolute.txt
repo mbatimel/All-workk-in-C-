@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/SortCouting/bin/Debug/net7.0/SortCouting
+/Users/macbook/Projects/bubble/SortCouting/bin/Debug/net7.0/SortCouting.deps.json
+/Users/macbook/Projects/bubble/SortCouting/bin/Debug/net7.0/SortCouting.runtimeconfig.json
+/Users/macbook/Projects/bubble/SortCouting/bin/Debug/net7.0/SortCouting.dll
+/Users/macbook/Projects/bubble/SortCouting/bin/Debug/net7.0/SortCouting.pdb
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.dll
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/refint/SortCouting.dll
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.pdb
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/SortCouting.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/SortCouting/obj/Debug/net7.0/ref/SortCouting.dll

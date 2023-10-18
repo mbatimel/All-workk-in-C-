@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/choicingSort/bin/Debug/net7.0/choicingSort
+/Users/macbook/Projects/bubble/choicingSort/bin/Debug/net7.0/choicingSort.deps.json
+/Users/macbook/Projects/bubble/choicingSort/bin/Debug/net7.0/choicingSort.runtimeconfig.json
+/Users/macbook/Projects/bubble/choicingSort/bin/Debug/net7.0/choicingSort.dll
+/Users/macbook/Projects/bubble/choicingSort/bin/Debug/net7.0/choicingSort.pdb
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.dll
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/refint/choicingSort.dll
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.pdb
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/choicingSort.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/choicingSort/obj/Debug/net7.0/ref/choicingSort.dll
