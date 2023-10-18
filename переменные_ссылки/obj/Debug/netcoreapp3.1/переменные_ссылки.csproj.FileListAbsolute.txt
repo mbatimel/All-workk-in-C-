@@ -1,0 +1,13 @@
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/bin/Debug/netcoreapp3.1/переменные_ссылки.deps.json
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/bin/Debug/netcoreapp3.1/переменные_ссылки.runtimeconfig.json
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/bin/Debug/netcoreapp3.1/переменные_ссылки.runtimeconfig.dev.json
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/bin/Debug/netcoreapp3.1/переменные_ссылки.dll
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/bin/Debug/netcoreapp3.1/переменные_ссылки.pdb
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.csproj.AssemblyReference.cache
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.AssemblyInfoInputs.cache
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.AssemblyInfo.cs
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.dll
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.pdb
+/Users/macbook/Projects/переменные_ссылки/переменные_ссылки/obj/Debug/netcoreapp3.1/переменные_ссылки.genruntimeconfig.cache
