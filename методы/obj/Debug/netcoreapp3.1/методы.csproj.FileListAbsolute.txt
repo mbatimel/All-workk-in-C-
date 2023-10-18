@@ -1,0 +1,13 @@
+/Users/macbook/Projects/методы/методы/bin/Debug/netcoreapp3.1/методы.deps.json
+/Users/macbook/Projects/методы/методы/bin/Debug/netcoreapp3.1/методы.runtimeconfig.json
+/Users/macbook/Projects/методы/методы/bin/Debug/netcoreapp3.1/методы.runtimeconfig.dev.json
+/Users/macbook/Projects/методы/методы/bin/Debug/netcoreapp3.1/методы.dll
+/Users/macbook/Projects/методы/методы/bin/Debug/netcoreapp3.1/методы.pdb
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.csproj.AssemblyReference.cache
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.AssemblyInfoInputs.cache
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.AssemblyInfo.cs
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.dll
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.pdb
+/Users/macbook/Projects/методы/методы/obj/Debug/netcoreapp3.1/методы.genruntimeconfig.cache
