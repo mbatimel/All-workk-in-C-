@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_IntroImprovement\bin\Debug\Example_001_IntroImprovement.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_IntroImprovement\bin\Debug\Example_001_IntroImprovement.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_IntroImprovement\bin\Debug\Example_001_IntroImprovement.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_IntroImprovement\obj\Debug\Example_001_IntroImprovement.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_IntroImprovement\obj\Debug\Example_001_IntroImprovement.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_IntroImprovement\obj\Debug\Example_001_IntroImprovement.pdb

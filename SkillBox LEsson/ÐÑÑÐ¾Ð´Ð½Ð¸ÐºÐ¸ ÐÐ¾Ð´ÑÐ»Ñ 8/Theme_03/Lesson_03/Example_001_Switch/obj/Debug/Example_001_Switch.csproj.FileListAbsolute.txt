@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_03\Example_001_Switch\bin\Debug\Example_001_Switch.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_03\Example_001_Switch\bin\Debug\Example_001_Switch.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_03\Example_001_Switch\bin\Debug\Example_001_Switch.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_03\Example_001_Switch\obj\Debug\Example_001_Switch.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_03\Example_001_Switch\obj\Debug\Example_001_Switch.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_03\Example_001_Switch\obj\Debug\Example_001_Switch.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_03\Example_001_Switch\obj\Debug\Example_001_Switch.pdb

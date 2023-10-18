@@ -1,0 +1,13 @@
+/Users/macbook/Projects/lb/lb/bin/Debug/netcoreapp3.1/lb.deps.json
+/Users/macbook/Projects/lb/lb/bin/Debug/netcoreapp3.1/lb.runtimeconfig.json
+/Users/macbook/Projects/lb/lb/bin/Debug/netcoreapp3.1/lb.runtimeconfig.dev.json
+/Users/macbook/Projects/lb/lb/bin/Debug/netcoreapp3.1/lb.dll
+/Users/macbook/Projects/lb/lb/bin/Debug/netcoreapp3.1/lb.pdb
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.csproj.AssemblyReference.cache
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.AssemblyInfoInputs.cache
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.AssemblyInfo.cs
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.dll
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.pdb
+/Users/macbook/Projects/lb/lb/obj/Debug/netcoreapp3.1/lb.genruntimeconfig.cache

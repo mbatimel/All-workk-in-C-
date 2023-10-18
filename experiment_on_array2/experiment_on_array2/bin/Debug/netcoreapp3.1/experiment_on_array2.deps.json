@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "experiment_on_array2/1.0.0": {
+        "runtime": {
+          "experiment_on_array2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "experiment_on_array2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

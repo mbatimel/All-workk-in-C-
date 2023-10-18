@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_842_SerializationComplicatedXml\bin\Debug\Example_842_SerializationComplicatedXml.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_842_SerializationComplicatedXml\bin\Debug\Example_842_SerializationComplicatedXml.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_842_SerializationComplicatedXml\bin\Debug\Example_842_SerializationComplicatedXml.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_842_SerializationComplicatedXml\obj\Debug\Example_842_SerializationComplicatedXml.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_842_SerializationComplicatedXml\obj\Debug\Example_842_SerializationComplicatedXml.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_842_SerializationComplicatedXml\obj\Debug\Example_842_SerializationComplicatedXml.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_842_SerializationComplicatedXml\obj\Debug\Example_842_SerializationComplicatedXml.pdb

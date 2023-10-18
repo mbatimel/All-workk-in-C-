@@ -1,0 +1,10 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\bin\Debug\Example_852_SerializationComplicatedJson.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\bin\Debug\Example_852_SerializationComplicatedJson.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\bin\Debug\Example_852_SerializationComplicatedJson.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\obj\Debug\Example_852_SerializationComplicatedJson.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\obj\Debug\Example_852_SerializationComplicatedJson.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\obj\Debug\Example_852_SerializationComplicatedJson.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\bin\Debug\Newtonsoft.Json.dll
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\bin\Debug\Newtonsoft.Json.xml
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\obj\Debug\Example_852_SerializationComplicatedJson.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_852_SerializationComplicatedJson\obj\Debug\Example_852_SerializationComplicatedJson.csproj.CopyComplete

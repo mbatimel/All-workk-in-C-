@@ -1,0 +1,14 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_01\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+D:\ Work\SkillBox\CodeSource\Lesson_01\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+D:\ Work\SkillBox\CodeSource\Lesson_01\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+D:\ Work\SkillBox\CodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

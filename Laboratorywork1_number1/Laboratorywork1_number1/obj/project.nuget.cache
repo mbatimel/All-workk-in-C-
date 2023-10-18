@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqYBcntSnvTtMc+bsqeGpiqJP2H9wQjKoljHbQtFnwznYOT2Wu9kR0cbqMZTSNxpGPmSdmIScb7pMF+Du2LcRw==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Projects/Laboratorywork1_number1/Laboratorywork1_number1/Laboratorywork1_number1.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

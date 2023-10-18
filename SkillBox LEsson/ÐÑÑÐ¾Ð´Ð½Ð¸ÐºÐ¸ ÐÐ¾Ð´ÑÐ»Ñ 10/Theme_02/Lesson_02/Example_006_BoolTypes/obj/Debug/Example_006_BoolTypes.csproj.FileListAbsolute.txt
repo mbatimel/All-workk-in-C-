@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_006_BoolTypes\bin\Debug\Example_006_BoolTypes.exe.config
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_006_BoolTypes\bin\Debug\Example_006_BoolTypes.exe
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_006_BoolTypes\bin\Debug\Example_006_BoolTypes.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_006_BoolTypes\obj\Debug\Example_006_BoolTypes.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_006_BoolTypes\obj\Debug\Example_006_BoolTypes.exe
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_006_BoolTypes\obj\Debug\Example_006_BoolTypes.pdb

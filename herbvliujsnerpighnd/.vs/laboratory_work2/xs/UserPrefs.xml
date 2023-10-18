@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{3AD047F1-30D5-4132-9442-ED5924BFEC97}|Default">
+  <MonoDevelop.Ide.ItemProperties.Number4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Number2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Number5/Number5.cs">
+    <Files>
+      <File FileName="Number3/Laboratory_Work2 — копия3.txt" Line="1" Column="1" />
+      <File FileName="herbvliujsnerpighnd/Number1.cs" />
+      <File FileName="Number3/Number3.cs" />
+      <File FileName="Number2/Number 2.cs" />
+      <File FileName="Number4/Number4.cs" />
+      <File FileName="Number5/Number5.cs" Line="583" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="laboratory_work2" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Number1" expanded="True" />
+            <Node name="Number2" expanded="True" />
+            <Node name="Number3" expanded="True" />
+            <Node name="Number4" expanded="True" />
+            <Node name="Number5" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Number5.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Number1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Number5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Number3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

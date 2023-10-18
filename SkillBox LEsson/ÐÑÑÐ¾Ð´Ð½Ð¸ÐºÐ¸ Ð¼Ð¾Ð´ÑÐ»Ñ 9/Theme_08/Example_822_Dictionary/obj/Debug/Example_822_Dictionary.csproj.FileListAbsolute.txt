@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{881CEDBC-5BF6-4DEE-AD4A-4CF02F80C820}|Default">
+  <MonoDevelop.Ide.ItemProperties.lb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lb/Lib.cs">
+    <Files>
+      <File FileName="lb/Program.cs" Line="15" Column="1" />
+      <File FileName="lb/EmptyCSharpFile.cs" Line="31" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lb" expanded="True">
+            <Node name="lb" expanded="True">
+              <Node name="Lib.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

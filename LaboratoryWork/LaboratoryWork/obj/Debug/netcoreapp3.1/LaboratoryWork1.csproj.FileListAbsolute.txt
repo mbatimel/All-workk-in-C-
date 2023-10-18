@@ -1,0 +1,13 @@
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/bin/Debug/netcoreapp3.1/LaboratoryWork1.deps.json
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/bin/Debug/netcoreapp3.1/LaboratoryWork1.runtimeconfig.json
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/bin/Debug/netcoreapp3.1/LaboratoryWork1.runtimeconfig.dev.json
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/bin/Debug/netcoreapp3.1/LaboratoryWork1.dll
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/bin/Debug/netcoreapp3.1/LaboratoryWork1.pdb
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.csproj.AssemblyReference.cache
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.AssemblyInfo.cs
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.dll
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.pdb
+/Users/macbook/Projects/LaboratoryWork/LaboratoryWork/obj/Debug/netcoreapp3.1/LaboratoryWork1.genruntimeconfig.cache

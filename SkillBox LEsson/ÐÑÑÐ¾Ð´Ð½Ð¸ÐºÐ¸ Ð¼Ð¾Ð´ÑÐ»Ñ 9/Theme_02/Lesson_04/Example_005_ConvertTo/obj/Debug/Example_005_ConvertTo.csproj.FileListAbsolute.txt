@@ -1,0 +1,12 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_005_ConvertTo\bin\Debug\Example_005_ConvertTo.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_005_ConvertTo\bin\Debug\Example_005_ConvertTo.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_005_ConvertTo\bin\Debug\Example_005_ConvertTo.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_005_ConvertTo\obj\Debug\Example_005_ConvertTo.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_005_ConvertTo\obj\Debug\Example_005_ConvertTo.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_005_ConvertTo\obj\Debug\Example_005_ConvertTo.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_04\Example_005_ConvertTo\bin\Debug\Example_005_ConvertTo.exe.config
+D:\ Work\SkillBox\CodeSource\Lesson_04\Example_005_ConvertTo\bin\Debug\Example_005_ConvertTo.exe
+D:\ Work\SkillBox\CodeSource\Lesson_04\Example_005_ConvertTo\bin\Debug\Example_005_ConvertTo.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_04\Example_005_ConvertTo\obj\Debug\Example_005_ConvertTo.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Lesson_04\Example_005_ConvertTo\obj\Debug\Example_005_ConvertTo.exe
+D:\ Work\SkillBox\CodeSource\Lesson_04\Example_005_ConvertTo\obj\Debug\Example_005_ConvertTo.pdb

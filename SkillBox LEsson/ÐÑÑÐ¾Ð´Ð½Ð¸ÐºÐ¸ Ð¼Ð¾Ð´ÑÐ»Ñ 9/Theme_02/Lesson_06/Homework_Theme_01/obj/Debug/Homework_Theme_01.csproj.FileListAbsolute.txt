@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+D:\ Work\SkillBox\CodeSource\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+D:\ Work\SkillBox\CodeSource\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+D:\ Work\SkillBox\CodeSource\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb

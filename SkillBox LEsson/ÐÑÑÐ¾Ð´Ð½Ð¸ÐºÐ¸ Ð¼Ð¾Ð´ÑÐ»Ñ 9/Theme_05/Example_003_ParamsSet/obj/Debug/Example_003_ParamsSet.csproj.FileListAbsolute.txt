@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_ParamsSet\bin\Debug\Example_003_ParamsSet.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_ParamsSet\bin\Debug\Example_003_ParamsSet.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_ParamsSet\bin\Debug\Example_003_ParamsSet.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_ParamsSet\obj\Debug\Example_003_ParamsSet.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_ParamsSet\obj\Debug\Example_003_ParamsSet.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_ParamsSet\obj\Debug\Example_003_ParamsSet.pdb

@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_Params\bin\Debug\Example_003_Params.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_Params\bin\Debug\Example_003_Params.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_Params\bin\Debug\Example_003_Params.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_Params\obj\Debug\Example_003_Params.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_Params\obj\Debug\Example_003_Params.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_003_Params\obj\Debug\Example_003_Params.pdb

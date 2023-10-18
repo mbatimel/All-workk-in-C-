@@ -1,0 +1,13 @@
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/bin/Release/netcoreapp3.1/Number4.deps.json
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/bin/Release/netcoreapp3.1/Number4.runtimeconfig.json
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/bin/Release/netcoreapp3.1/Number4.runtimeconfig.dev.json
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/bin/Release/netcoreapp3.1/Number4.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/bin/Release/netcoreapp3.1/Number4.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.csproj.AssemblyReference.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.AssemblyInfoInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.AssemblyInfo.cs
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/Number4/obj/Release/netcoreapp3.1/Number4.genruntimeconfig.cache

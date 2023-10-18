@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5C50E4F8-7C4D-4A4A-A012-820E7F78D088}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dsafa/Program.cs">
+    <Files>
+      <File FileName="dsafa/Program.cs" Line="1" Column="1" />
+      <File FileName="dsafa/Startup.cs" />
+      <File FileName="dsafa/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dsafa" expanded="True">
+            <Node name="dsafa" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.dsafa FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

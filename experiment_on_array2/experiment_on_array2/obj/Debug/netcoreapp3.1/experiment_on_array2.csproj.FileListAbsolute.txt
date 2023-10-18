@@ -1,0 +1,13 @@
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.csproj.AssemblyReference.cache
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.AssemblyInfoInputs.cache
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.AssemblyInfo.cs
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/bin/Debug/netcoreapp3.1/experiment_on_array2.deps.json
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/bin/Debug/netcoreapp3.1/experiment_on_array2.runtimeconfig.json
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/bin/Debug/netcoreapp3.1/experiment_on_array2.runtimeconfig.dev.json
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/bin/Debug/netcoreapp3.1/experiment_on_array2.dll
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/bin/Debug/netcoreapp3.1/experiment_on_array2.pdb
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.dll
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.pdb
+/Users/macbook/Projects/experiment_on_array2/experiment_on_array2/obj/Debug/netcoreapp3.1/experiment_on_array2.genruntimeconfig.cache

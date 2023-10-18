@@ -1,0 +1,17 @@
+/Users/macbook/Projects/jump/jump/bin/Debug/net5.0/jump.deps.json
+/Users/macbook/Projects/jump/jump/bin/Debug/net5.0/jump.runtimeconfig.json
+/Users/macbook/Projects/jump/jump/bin/Debug/net5.0/jump.runtimeconfig.dev.json
+/Users/macbook/Projects/jump/jump/bin/Debug/net5.0/jump.dll
+/Users/macbook/Projects/jump/jump/bin/Debug/net5.0/ref/jump.dll
+/Users/macbook/Projects/jump/jump/bin/Debug/net5.0/jump.pdb
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.csproj.AssemblyReference.cache
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.AssemblyInfoInputs.cache
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.AssemblyInfo.cs
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.dll
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/ref/jump.dll
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.pdb
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.genruntimeconfig.cache
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.JumpTest.resources
+/Users/macbook/Projects/jump/jump/obj/Debug/net5.0/jump.csproj.GenerateResource.cache

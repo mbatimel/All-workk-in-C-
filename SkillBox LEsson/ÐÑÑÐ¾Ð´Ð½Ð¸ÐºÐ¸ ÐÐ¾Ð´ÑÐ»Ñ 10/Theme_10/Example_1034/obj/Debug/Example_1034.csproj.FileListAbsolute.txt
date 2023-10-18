@@ -1,0 +1,14 @@
+D:\ Work\SkillBox\CodeSource\Example_1034\bin\Debug\Example_1034.exe.config
+D:\ Work\SkillBox\CodeSource\Example_1034\bin\Debug\Example_1034.exe
+D:\ Work\SkillBox\CodeSource\Example_1034\bin\Debug\Example_1034.pdb
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\MainWindow.g.cs
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\App.g.cs
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034_MarkupCompile.cache
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034_MarkupCompile.lref
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\MainWindow.baml
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034.g.resources
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034.Properties.Resources.resources
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034.csproj.GenerateResource.cache
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034.exe
+D:\ Work\SkillBox\CodeSource\Example_1034\obj\Debug\Example_1034.pdb

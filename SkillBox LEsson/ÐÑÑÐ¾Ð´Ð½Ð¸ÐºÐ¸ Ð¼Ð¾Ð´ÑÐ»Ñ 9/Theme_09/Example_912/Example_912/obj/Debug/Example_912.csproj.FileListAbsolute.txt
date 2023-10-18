@@ -1,0 +1,8 @@
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\obj\Debug\Example_912.Properties.Resources.resources
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\obj\Debug\Example_912.csproj.GenerateResource.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\obj\Debug\Example_912.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\bin\Debug\Example_912.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\bin\Debug\Example_912.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\bin\Debug\Example_912.pdb
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\obj\Debug\Example_912.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_912\Example_912\obj\Debug\Example_912.pdb

@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_913\obj\Debug\Example_913.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_913\bin\Debug\Example_913.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_913\bin\Debug\Example_913.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_913\bin\Debug\Example_913.pdb
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_913\obj\Debug\Example_913.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_913\obj\Debug\Example_913.pdb

@@ -1,0 +1,13 @@
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/bin/Debug/netcoreapp3.1/Number2.deps.json
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/bin/Debug/netcoreapp3.1/Number2.runtimeconfig.json
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/bin/Debug/netcoreapp3.1/Number2.runtimeconfig.dev.json
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/bin/Debug/netcoreapp3.1/Number2.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/bin/Debug/netcoreapp3.1/Number2.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.csproj.AssemblyReference.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.AssemblyInfoInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.AssemblyInfo.cs
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/Number2/obj/Debug/netcoreapp3.1/Number2.genruntimeconfig.cache

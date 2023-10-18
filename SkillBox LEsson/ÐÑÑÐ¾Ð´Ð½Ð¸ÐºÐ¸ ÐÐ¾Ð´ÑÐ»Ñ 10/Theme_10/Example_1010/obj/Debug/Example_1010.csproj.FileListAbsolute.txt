@@ -1,0 +1,15 @@
+D:\ Work\SkillBox\CodeSource\Example_1010\bin\Debug\Example_1010.exe.config
+D:\ Work\SkillBox\CodeSource\Example_1010\bin\Debug\Example_1010.exe
+D:\ Work\SkillBox\CodeSource\Example_1010\bin\Debug\Example_1010.pdb
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\MainWindow.g.cs
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\App.g.cs
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010_MarkupCompile.cache
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010_MarkupCompile.lref
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\MainWindow.baml
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010.g.resources
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010.Properties.Resources.resources
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010.csproj.GenerateResource.cache
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010.exe
+D:\ Work\SkillBox\CodeSource\Example_1010\obj\Debug\Example_1010.pdb

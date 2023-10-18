@@ -1,0 +1,13 @@
+/Users/macbook/Projects/LubNum3/LubNum3/bin/Debug/netcoreapp3.1/LubNum3.deps.json
+/Users/macbook/Projects/LubNum3/LubNum3/bin/Debug/netcoreapp3.1/LubNum3.runtimeconfig.json
+/Users/macbook/Projects/LubNum3/LubNum3/bin/Debug/netcoreapp3.1/LubNum3.runtimeconfig.dev.json
+/Users/macbook/Projects/LubNum3/LubNum3/bin/Debug/netcoreapp3.1/LubNum3.dll
+/Users/macbook/Projects/LubNum3/LubNum3/bin/Debug/netcoreapp3.1/LubNum3.pdb
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.csproj.AssemblyReference.cache
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.AssemblyInfoInputs.cache
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.AssemblyInfo.cs
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.dll
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.pdb
+/Users/macbook/Projects/LubNum3/LubNum3/obj/Debug/netcoreapp3.1/LubNum3.genruntimeconfig.cache

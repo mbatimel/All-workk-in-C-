@@ -1,0 +1,13 @@
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.csproj.AssemblyReference.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.AssemblyInfoInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.AssemblyInfo.cs
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Debug/netcoreapp3.1/herbvliujsnerpighnd.deps.json
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Debug/netcoreapp3.1/herbvliujsnerpighnd.runtimeconfig.json
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Debug/netcoreapp3.1/herbvliujsnerpighnd.runtimeconfig.dev.json
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Debug/netcoreapp3.1/herbvliujsnerpighnd.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Debug/netcoreapp3.1/herbvliujsnerpighnd.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Debug/netcoreapp3.1/herbvliujsnerpighnd.genruntimeconfig.cache

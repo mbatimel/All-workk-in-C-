@@ -1,0 +1,12 @@
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\bin\Debug\Example_931.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\bin\Debug\Example_931.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\bin\Debug\Example_931.pdb
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\bin\Debug\Newtonsoft.Json.dll
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\bin\Debug\Telegram.Bot.dll
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\bin\Debug\Newtonsoft.Json.xml
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\bin\Debug\Telegram.Bot.xml
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\obj\Debug\Example_931.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\obj\Debug\Example_931.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\obj\Debug\Example_931.csproj.CopyComplete
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\obj\Debug\Example_931.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_931\obj\Debug\Example_931.pdb

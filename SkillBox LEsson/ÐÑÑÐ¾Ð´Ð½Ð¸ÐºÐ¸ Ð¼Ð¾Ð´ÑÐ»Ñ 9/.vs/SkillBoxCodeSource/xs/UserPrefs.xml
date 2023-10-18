@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A7372A6D-4D63-446A-B327-32A659068D8F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Theme_09/Example_913/Program.cs">
+    <Files>
+      <File FileName="Theme_01/HelloWorldConsoleApp/Program.cs" />
+      <File FileName="Theme_09/Example_913/Program.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SkillBoxCodeSource" expanded="True">
+            <Node name="Theme" expanded="True">
+              <Node name="Theme_01" expanded="True">
+                <Node name="Lesson_01" expanded="True">
+                  <Node name="HelloWorldConsoleApp" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="ThemeCurrent" expanded="True">
+              <Node name="Lesson_01" expanded="True">
+                <Node name="Example_913" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Theme.Theme__01.Lesson__01.HelloWorldConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

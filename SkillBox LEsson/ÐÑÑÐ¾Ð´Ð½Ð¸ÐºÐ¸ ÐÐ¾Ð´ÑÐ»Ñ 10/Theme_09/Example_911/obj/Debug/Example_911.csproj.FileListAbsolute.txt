@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_911\bin\Debug\Example_911.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_911\bin\Debug\Example_911.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_911\bin\Debug\Example_911.pdb
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_911\obj\Debug\Example_911.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_911\obj\Debug\Example_911.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_911\obj\Debug\Example_911.pdb

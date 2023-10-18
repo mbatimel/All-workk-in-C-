@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7D28E413-B3F0-4A3B-B304-7AFE34F3A267}|Default">
+  <MonoDevelop.Ide.ItemProperties.jump PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="jump/Program.cs">
+    <Files>
+      <File FileName="jump/Program.cs" Line="5" Column="5" />
+      <File FileName="jump/JumpTest.resx" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{03D58C7F-5CBA-45A8-875D-626EDED410E9}|Default" BuildWithMSBuildOnMono="True">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TelegramBot2.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/macbook/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/ca8abcb6bc4d87d8bbd8b4eb3a769269cefb629d</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TelegramBot2.0/Program.cs">
+    <Files>
+      <File FileName="TelegramBot2.0/Program.cs" Line="107" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kwork" expanded="True">
+            <Node name="TelegramBot2.0" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

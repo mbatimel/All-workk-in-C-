@@ -1,0 +1,15 @@
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\bin\Debug\Example_1012.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\bin\Debug\Example_1012.exe
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\bin\Debug\Example_1012.pdb
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\MainWindow.g.cs
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\App.g.cs
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012_MarkupCompile.cache
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012_MarkupCompile.lref
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\MainWindow.baml
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012.g.resources
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012.Properties.Resources.resources
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012.csproj.GenerateResource.cache
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012.exe
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012.pdb
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1012\obj\Debug\Example_1012.csprojAssemblyReference.cache

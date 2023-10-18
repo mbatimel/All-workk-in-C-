@@ -1,0 +1,20 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.exe.config
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.exe
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_005_CharTypes\bin\Debug\Example_005_CharTypes.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.exe
+D:\ Work\SkillBox\CodeSource\Lesson_02\Example_005_CharTypes\obj\Debug\Example_005_CharTypes.pdb

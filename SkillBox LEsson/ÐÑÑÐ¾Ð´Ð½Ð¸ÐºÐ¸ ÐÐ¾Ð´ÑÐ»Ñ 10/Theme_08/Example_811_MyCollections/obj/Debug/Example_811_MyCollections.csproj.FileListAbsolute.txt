@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.csprojAssemblyReference.cache

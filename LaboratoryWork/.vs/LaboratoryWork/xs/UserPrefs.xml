@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{010C156F-CAD4-46EF-BFAB-069F72DCD35D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LaboratoryWork/NUmber1.cs">
+    <Files>
+      <File FileName="LaboratoryWork/NUmber1.cs" Line="146" Column="1" />
+      <File FileName="LaboratoryWork2/Number2.cs" />
+      <File FileName="LaboratoryWork3/Number3.cs" />
+      <File FileName="Main/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LaboratoryWork" expanded="True">
+            <Node name="LaboratoryWork1" expanded="True">
+              <Node name="NUmber1.cs" selected="True" />
+            </Node>
+            <Node name="LaboratoryWork2" expanded="True" />
+            <Node name="LaboratoryWork3" expanded="True" />
+            <Node name="Main" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LaboratoryWork2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LaboratoryWork3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LaboratoryWork1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Main PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Main" Name="Main">
+      <Items>
+        <StartupItem ItemId="{F611FE33-7A2B-4B3B-AD74-2FCCCF40E702}" ItemName="LaboratoryWork1" ConfigurationId="Default" />
+        <StartupItem ItemId="{1C62545A-E8FC-49F1-8BAF-98E85279CC55}" ItemName="LaboratoryWork2" ConfigurationId="Default" />
+        <StartupItem ItemId="{CDE30C35-211A-4F00-B328-6890C063B4DB}" ItemName="LaboratoryWork3" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

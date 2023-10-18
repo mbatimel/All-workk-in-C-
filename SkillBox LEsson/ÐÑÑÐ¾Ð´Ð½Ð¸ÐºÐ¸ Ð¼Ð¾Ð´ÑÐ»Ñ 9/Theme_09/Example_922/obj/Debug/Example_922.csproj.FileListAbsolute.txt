@@ -1,0 +1,10 @@
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\bin\Debug\Example_922.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\bin\Debug\Example_922.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\bin\Debug\Example_922.pdb
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\bin\Debug\Newtonsoft.Json.dll
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\bin\Debug\Newtonsoft.Json.xml
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\obj\Debug\Example_922.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\obj\Debug\Example_922.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\obj\Debug\Example_922.csproj.CopyComplete
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\obj\Debug\Example_922.exe
+D:\ Work\SkillBox\CodeSource\Theme_09\Example_922\obj\Debug\Example_922.pdb

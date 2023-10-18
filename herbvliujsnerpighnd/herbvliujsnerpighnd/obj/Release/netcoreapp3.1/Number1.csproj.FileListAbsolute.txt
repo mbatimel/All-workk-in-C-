@@ -1,0 +1,28 @@
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.deps.json
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.runtimeconfig.json
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.runtimeconfig.dev.json
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.csproj.AssemblyReference.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.AssemblyInfo.cs
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.dll
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.pdb
+/Users/macbook/Projects/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.genruntimeconfig.cache
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.deps.json
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.runtimeconfig.json
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.runtimeconfig.dev.json
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.dll
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Number1.pdb
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.AssemblyInfo.cs
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.csproj.CopyComplete
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.dll
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.pdb
+/Users/macbook/Desktop/для первашей/herbvliujsnerpighnd/herbvliujsnerpighnd/obj/Release/netcoreapp3.1/Number1.genruntimeconfig.cache

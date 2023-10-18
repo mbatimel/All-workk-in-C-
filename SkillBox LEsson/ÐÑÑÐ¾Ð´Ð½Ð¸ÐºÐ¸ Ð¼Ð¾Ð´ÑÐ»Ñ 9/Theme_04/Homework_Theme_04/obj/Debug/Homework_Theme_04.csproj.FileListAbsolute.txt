@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.pdb
+D:\ Work\SkillBox\CodeSource\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb
