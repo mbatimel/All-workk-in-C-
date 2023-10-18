@@ -1,0 +1,14 @@
+/Users/macbook/Projects/Skillbox2/Skillbox2/bin/Debug/netcoreapp3.1/Skillbox2.deps.json
+/Users/macbook/Projects/Skillbox2/Skillbox2/bin/Debug/netcoreapp3.1/Skillbox2.runtimeconfig.json
+/Users/macbook/Projects/Skillbox2/Skillbox2/bin/Debug/netcoreapp3.1/Skillbox2.runtimeconfig.dev.json
+/Users/macbook/Projects/Skillbox2/Skillbox2/bin/Debug/netcoreapp3.1/Skillbox2.dll
+/Users/macbook/Projects/Skillbox2/Skillbox2/bin/Debug/netcoreapp3.1/Skillbox2.pdb
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.AssemblyInfo.cs
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.dll
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.pdb
+/Users/macbook/Projects/Skillbox2/Skillbox2/obj/Debug/netcoreapp3.1/Skillbox2.genruntimeconfig.cache
+/Users/macbook/Projects/Skillbox2/Skillbox2/bin/Debug/netcoreapp3.1/Skillbox2

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6ELq+CuRGSalsF072dGngcRUESt5vYGrI3kJHnIB0Koi9TcSIXAqeGhvQ8dzkL81zyuupuK5Z/3dVFQnd/WZg==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Projects/Skillbox2/Skillbox2/Skillbox2.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
