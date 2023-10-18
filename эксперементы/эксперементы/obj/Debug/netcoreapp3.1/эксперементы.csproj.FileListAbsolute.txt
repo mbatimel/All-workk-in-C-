@@ -1,0 +1,13 @@
+/Users/macbook/Projects/эксперементы/эксперементы/bin/Debug/netcoreapp3.1/эксперементы.deps.json
+/Users/macbook/Projects/эксперементы/эксперементы/bin/Debug/netcoreapp3.1/эксперементы.runtimeconfig.json
+/Users/macbook/Projects/эксперементы/эксперементы/bin/Debug/netcoreapp3.1/эксперементы.runtimeconfig.dev.json
+/Users/macbook/Projects/эксперементы/эксперементы/bin/Debug/netcoreapp3.1/эксперементы.dll
+/Users/macbook/Projects/эксперементы/эксперементы/bin/Debug/netcoreapp3.1/эксперементы.pdb
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.csproj.AssemblyReference.cache
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.AssemblyInfoInputs.cache
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.AssemblyInfo.cs
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.dll
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.pdb
+/Users/macbook/Projects/эксперементы/эксперементы/obj/Debug/netcoreapp3.1/эксперементы.genruntimeconfig.cache
