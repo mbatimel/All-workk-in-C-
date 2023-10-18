@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/strikingly/bin/Debug/net7.0/strikingly
+/Users/macbook/Projects/bubble/strikingly/bin/Debug/net7.0/strikingly.deps.json
+/Users/macbook/Projects/bubble/strikingly/bin/Debug/net7.0/strikingly.runtimeconfig.json
+/Users/macbook/Projects/bubble/strikingly/bin/Debug/net7.0/strikingly.dll
+/Users/macbook/Projects/bubble/strikingly/bin/Debug/net7.0/strikingly.pdb
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.dll
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/refint/strikingly.dll
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.pdb
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/strikingly.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/strikingly/obj/Debug/net7.0/ref/strikingly.dll

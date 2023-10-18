@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/TimSort/bin/Debug/net7.0/TimSort
+/Users/macbook/Projects/bubble/TimSort/bin/Debug/net7.0/TimSort.deps.json
+/Users/macbook/Projects/bubble/TimSort/bin/Debug/net7.0/TimSort.runtimeconfig.json
+/Users/macbook/Projects/bubble/TimSort/bin/Debug/net7.0/TimSort.dll
+/Users/macbook/Projects/bubble/TimSort/bin/Debug/net7.0/TimSort.pdb
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.dll
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/refint/TimSort.dll
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.pdb
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/TimSort.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/TimSort/obj/Debug/net7.0/ref/TimSort.dll
