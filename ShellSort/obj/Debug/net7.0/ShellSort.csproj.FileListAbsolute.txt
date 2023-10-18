@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/ShellSort/bin/Debug/net7.0/ShellSort
+/Users/macbook/Projects/bubble/ShellSort/bin/Debug/net7.0/ShellSort.deps.json
+/Users/macbook/Projects/bubble/ShellSort/bin/Debug/net7.0/ShellSort.runtimeconfig.json
+/Users/macbook/Projects/bubble/ShellSort/bin/Debug/net7.0/ShellSort.dll
+/Users/macbook/Projects/bubble/ShellSort/bin/Debug/net7.0/ShellSort.pdb
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.dll
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/refint/ShellSort.dll
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.pdb
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ShellSort.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/ShellSort/obj/Debug/net7.0/ref/ShellSort.dll

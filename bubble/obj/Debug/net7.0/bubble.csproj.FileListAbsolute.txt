@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/bubble/bin/Debug/net7.0/bubble
+/Users/macbook/Projects/bubble/bubble/bin/Debug/net7.0/bubble.deps.json
+/Users/macbook/Projects/bubble/bubble/bin/Debug/net7.0/bubble.runtimeconfig.json
+/Users/macbook/Projects/bubble/bubble/bin/Debug/net7.0/bubble.dll
+/Users/macbook/Projects/bubble/bubble/bin/Debug/net7.0/bubble.pdb
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.dll
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/refint/bubble.dll
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.pdb
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/bubble.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/bubble/obj/Debug/net7.0/ref/bubble.dll

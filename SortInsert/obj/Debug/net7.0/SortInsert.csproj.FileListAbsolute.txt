@@ -1,0 +1,15 @@
+/Users/macbook/Projects/bubble/SortInsert/bin/Debug/net7.0/SortInsert
+/Users/macbook/Projects/bubble/SortInsert/bin/Debug/net7.0/SortInsert.deps.json
+/Users/macbook/Projects/bubble/SortInsert/bin/Debug/net7.0/SortInsert.runtimeconfig.json
+/Users/macbook/Projects/bubble/SortInsert/bin/Debug/net7.0/SortInsert.dll
+/Users/macbook/Projects/bubble/SortInsert/bin/Debug/net7.0/SortInsert.pdb
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.csproj.AssemblyReference.cache
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.AssemblyInfoInputs.cache
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.AssemblyInfo.cs
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.dll
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/refint/SortInsert.dll
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.pdb
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/SortInsert.genruntimeconfig.cache
+/Users/macbook/Projects/bubble/SortInsert/obj/Debug/net7.0/ref/SortInsert.dll
