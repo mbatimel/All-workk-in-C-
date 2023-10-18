@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Build.Tasks.Git/1.1.1": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Build.Tasks.Git.props": {},
+          "build/Microsoft.Build.Tasks.Git.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Microsoft.Build.Tasks.Git.props": {},
+          "buildMultiTargeting/Microsoft.Build.Tasks.Git.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Build.Tasks.Git/1.1.1": {
+      "sha512": "AT3HlgTjsqHnWpBHSNeR0KxbLZD7bztlZVj7I8vgeYG9SYqbeFGh0TM/KVtC6fg53nrWHl3VfZFvb5BiQFcY6Q==",
+      "type": "package",
+      "path": "microsoft.build.tasks.git/1.1.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/Microsoft.Build.Tasks.Git.props",
+        "build/Microsoft.Build.Tasks.Git.targets",
+        "buildMultiTargeting/Microsoft.Build.Tasks.Git.props",
+        "buildMultiTargeting/Microsoft.Build.Tasks.Git.targets",
+        "microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+        "microsoft.build.tasks.git.nuspec",
+        "tools/core/Microsoft.Build.Tasks.Git.dll",
+        "tools/core/cs/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/de/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/es/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/fr/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/it/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/ja/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/ko/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/pl/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/pt-BR/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/ru/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/tr/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/zh-Hans/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/core/zh-Hant/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/Microsoft.Build.Tasks.Git.dll",
+        "tools/net472/System.Collections.Immutable.dll",
+        "tools/net472/cs/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/de/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/es/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/fr/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/it/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/ja/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/ko/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/pl/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/pt-BR/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/ru/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/tr/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/zh-Hans/Microsoft.Build.Tasks.Git.resources.dll",
+        "tools/net472/zh-Hant/Microsoft.Build.Tasks.Git.resources.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Build.Tasks.Git >= 1.1.1"
+    ]
+  },
+  "packageFolders": {
+    "/Users/macbook/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/macbook/Projects/лабораторная_задача1/лабораторная_задача1/лабораторная_задача1.csproj",
+      "projectName": "лабораторная_задача1",
+      "projectPath": "/Users/macbook/Projects/лабораторная_задача1/лабораторная_задача1/лабораторная_задача1.csproj",
+      "packagesPath": "/Users/macbook/.nuget/packages/",
+      "outputPath": "/Users/macbook/Projects/лабораторная_задача1/лабораторная_задача1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/macbook/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.Build.Tasks.Git": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

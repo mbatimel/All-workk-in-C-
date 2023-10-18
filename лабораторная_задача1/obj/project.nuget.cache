@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nA0UAecV7BPZjAZ4jDW/k3pgAx4YsqAMNmDXRvlPDAVicMaBPdSiPW+Gq/fhIVlzYygdBeVm6mhnNeHHN2oChw==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Projects/лабораторная_задача1/лабораторная_задача1/лабораторная_задача1.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.build.tasks.git/1.1.1/microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
