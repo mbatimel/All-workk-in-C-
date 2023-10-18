@@ -1,0 +1,13 @@
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/bin/Debug/netcoreapp3.1/рекурсивные_функции.deps.json
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/bin/Debug/netcoreapp3.1/рекурсивные_функции.runtimeconfig.json
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/bin/Debug/netcoreapp3.1/рекурсивные_функции.runtimeconfig.dev.json
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/bin/Debug/netcoreapp3.1/рекурсивные_функции.dll
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/bin/Debug/netcoreapp3.1/рекурсивные_функции.pdb
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.csproj.AssemblyReference.cache
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.AssemblyInfoInputs.cache
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.AssemblyInfo.cs
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.dll
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.pdb
+/Users/macbook/Projects/рекурсивные_функции/рекурсивные_функции/obj/Debug/netcoreapp3.1/рекурсивные_функции.genruntimeconfig.cache
