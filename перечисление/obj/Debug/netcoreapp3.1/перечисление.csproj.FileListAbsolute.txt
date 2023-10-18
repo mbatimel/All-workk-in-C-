@@ -1,0 +1,13 @@
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.csproj.AssemblyReference.cache
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.AssemblyInfoInputs.cache
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.AssemblyInfo.cs
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/перечисление/перечисление/bin/Debug/netcoreapp3.1/перечисление.deps.json
+/Users/macbook/Projects/перечисление/перечисление/bin/Debug/netcoreapp3.1/перечисление.runtimeconfig.json
+/Users/macbook/Projects/перечисление/перечисление/bin/Debug/netcoreapp3.1/перечисление.runtimeconfig.dev.json
+/Users/macbook/Projects/перечисление/перечисление/bin/Debug/netcoreapp3.1/перечисление.dll
+/Users/macbook/Projects/перечисление/перечисление/bin/Debug/netcoreapp3.1/перечисление.pdb
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.dll
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.pdb
+/Users/macbook/Projects/перечисление/перечисление/obj/Debug/netcoreapp3.1/перечисление.genruntimeconfig.cache
