@@ -1,0 +1,13 @@
+/Users/macbook/Projects/кортежи/кортежи/bin/Debug/netcoreapp3.1/кортежи.deps.json
+/Users/macbook/Projects/кортежи/кортежи/bin/Debug/netcoreapp3.1/кортежи.runtimeconfig.json
+/Users/macbook/Projects/кортежи/кортежи/bin/Debug/netcoreapp3.1/кортежи.runtimeconfig.dev.json
+/Users/macbook/Projects/кортежи/кортежи/bin/Debug/netcoreapp3.1/кортежи.dll
+/Users/macbook/Projects/кортежи/кортежи/bin/Debug/netcoreapp3.1/кортежи.pdb
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.csproj.AssemblyReference.cache
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.AssemblyInfoInputs.cache
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.AssemblyInfo.cs
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.dll
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.pdb
+/Users/macbook/Projects/кортежи/кортежи/obj/Debug/netcoreapp3.1/кортежи.genruntimeconfig.cache
