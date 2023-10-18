@@ -1,0 +1,13 @@
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/bin/Debug/netcoreapp3.1/работа_в_универе.deps.json
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/bin/Debug/netcoreapp3.1/работа_в_универе.runtimeconfig.json
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/bin/Debug/netcoreapp3.1/работа_в_универе.runtimeconfig.dev.json
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/bin/Debug/netcoreapp3.1/работа_в_универе.dll
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/bin/Debug/netcoreapp3.1/работа_в_универе.pdb
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.csproj.AssemblyReference.cache
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.AssemblyInfoInputs.cache
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.AssemblyInfo.cs
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.dll
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.pdb
+/Users/macbook/Projects/работа_в_универе/работа_в_универе/obj/Debug/netcoreapp3.1/работа_в_универе.genruntimeconfig.cache
