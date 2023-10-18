@@ -1,0 +1,13 @@
+/Users/macbook/Projects/main/main/bin/Debug/netcoreapp3.1/main.deps.json
+/Users/macbook/Projects/main/main/bin/Debug/netcoreapp3.1/main.runtimeconfig.json
+/Users/macbook/Projects/main/main/bin/Debug/netcoreapp3.1/main.runtimeconfig.dev.json
+/Users/macbook/Projects/main/main/bin/Debug/netcoreapp3.1/main.dll
+/Users/macbook/Projects/main/main/bin/Debug/netcoreapp3.1/main.pdb
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.AssemblyInfoInputs.cache
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.AssemblyInfo.cs
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.dll
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.pdb
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.genruntimeconfig.cache
+/Users/macbook/Projects/main/main/obj/Debug/netcoreapp3.1/main.csproj.AssemblyReference.cache
