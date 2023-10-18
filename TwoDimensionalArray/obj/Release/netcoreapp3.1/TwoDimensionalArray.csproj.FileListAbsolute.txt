@@ -1,0 +1,12 @@
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Release/netcoreapp3.1/TwoDimensionalArray.deps.json
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Release/netcoreapp3.1/TwoDimensionalArray.runtimeconfig.json
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Release/netcoreapp3.1/TwoDimensionalArray.runtimeconfig.dev.json
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Release/netcoreapp3.1/TwoDimensionalArray.dll
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Release/netcoreapp3.1/TwoDimensionalArray.pdb
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Release/netcoreapp3.1/TwoDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Release/netcoreapp3.1/TwoDimensionalArray.AssemblyInfoInputs.cache
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Release/netcoreapp3.1/TwoDimensionalArray.AssemblyInfo.cs
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Release/netcoreapp3.1/TwoDimensionalArray.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Release/netcoreapp3.1/TwoDimensionalArray.dll
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Release/netcoreapp3.1/TwoDimensionalArray.pdb
+/Users/macbook/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Release/netcoreapp3.1/TwoDimensionalArray.genruntimeconfig.cache
